@@ -1,0 +1,30 @@
+✔ STRONG match: Programme Assistant – International NGO (2.913838ms)
+✔ PARTIAL match: Junior Data Analyst – Fintech (0.806185ms)
+✔ CRITICAL GAP: German-speaking Client Associate (required German missing) (0.450345ms)
+✔ Student-only role: unknown -> verify, not enrolled -> critical, enrolled -> info (2.172186ms)
+✔ Work authorisation: sponsorship needed + none offered is critical; offered -> verify (0.476105ms)
+✔ Work authorisation: authorised in a different country is not treated as authorised here (0.546956ms)
+✔ Every opportunity that requires work authorisation is flagged for an unknown-status profile (2.082938ms)
+✔ Missing profile data is excluded from scoring, reported, and lowers confidence (0.362697ms)
+✔ Skill aliases and related skills are recognised (0.556749ms)
+✔ Preferred region ("Europe") matches a country in that region (0.56576ms)
+✔ Language one level short is a partial score, two or more is critical (0.455937ms)
+✔ Experience: far too little is critical; slightly short is a normal gap (0.40364ms)
+✔ Ranking is sorted, complete, deterministic and puts critical gaps below strong matches (12.252252ms)
+✔ Sample dataset covers strong, partial and critical-gap outcomes and has >= 10 records (3.984612ms)
+✔ sample profile is valid and work authorisation stays "unknown" (1.214601ms)
+✔ empty / non-object body is rejected (0.20629ms)
+✔ missing required fields produce per-field errors (0.20974ms)
+✔ invalid enums, ranges and duplicate languages are rejected (1.230295ms)
+✔ "authorised" without countries is rejected; unknown clears countries (1.045126ms)
+✔ lists are trimmed and de-duplicated; unknown fields are dropped (0.285909ms)
+✔ operator-injection style values cannot reach the database as objects (0.259448ms)
+✔ control characters are stripped from text (0.193494ms)
+ℹ tests 22
+ℹ suites 0
+ℹ pass 22
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 151.730883

@@ -1,0 +1,122 @@
+[
+ {
+  "rank": 1,
+  "id": "opp-001",
+  "title": "Programme Assistant – International NGO",
+  "country": "Germany",
+  "score": 100,
+  "raw": 100,
+  "tier": "Strong match",
+  "elig": "verify"
+ },
+ {
+  "rank": 2,
+  "id": "opp-004",
+  "title": "Operations Coordinator – Logistics Scale-up",
+  "country": "Canada",
+  "score": 98,
+  "raw": 98,
+  "tier": "Strong match",
+  "elig": "verify"
+ },
+ {
+  "rank": 3,
+  "id": "opp-005",
+  "title": "Project Support Officer – Sustainability Consultancy",
+  "country": "Singapore",
+  "score": 98,
+  "raw": 98,
+  "tier": "Strong match",
+  "elig": "verify"
+ },
+ {
+  "rank": 4,
+  "id": "opp-009",
+  "title": "Programme Coordinator Trainee – Education Foundation",
+  "country": "Singapore",
+  "score": 94,
+  "raw": 94,
+  "tier": "Strong match",
+  "elig": "verify"
+ },
+ {
+  "rank": 5,
+  "id": "opp-008",
+  "title": "Business Operations Analyst – Remote-first SaaS",
+  "country": "Canada",
+  "score": 85,
+  "raw": 85,
+  "tier": "Strong match",
+  "elig": "verify"
+ },
+ {
+  "rank": 6,
+  "id": "opp-010",
+  "title": "Research & Reporting Associate – Policy Think Tank",
+  "country": "Canada",
+  "score": 69,
+  "raw": 69,
+  "tier": "Partial match",
+  "elig": "verify"
+ },
+ {
+  "rank": 7,
+  "id": "opp-002",
+  "title": "Business Analyst Intern – Technology Firm",
+  "country": "Singapore",
+  "score": 65,
+  "raw": 65,
+  "tier": "Partial match",
+  "elig": "verify"
+ },
+ {
+  "rank": 8,
+  "id": "opp-006",
+  "title": "Junior Data Analyst – Fintech",
+  "country": "Germany",
+  "score": 60,
+  "raw": 60,
+  "tier": "Partial match",
+  "elig": "verify"
+ },
+ {
+  "rank": 9,
+  "id": "opp-011",
+  "title": "Bilingual Customer Success Representative (French)",
+  "country": "Canada",
+  "score": 45,
+  "raw": 52,
+  "tier": "Critical gap",
+  "elig": "verify"
+ },
+ {
+  "rank": 10,
+  "id": "opp-003",
+  "title": "German-speaking Client Associate",
+  "country": "Germany",
+  "score": 45,
+  "raw": 55,
+  "tier": "Critical gap",
+  "elig": "verify"
+ },
+ {
+  "rank": 11,
+  "id": "opp-012",
+  "title": "Operations Associate – Japanese Logistics Firm",
+  "country": "Japan",
+  "score": 45,
+  "raw": 63,
+  "tier": "Critical gap",
+  "elig": "verify"
+ },
+ {
+  "rank": 12,
+  "id": "opp-007",
+  "title": "Senior Programme Manager – Global Health Initiative",
+  "country": "Netherlands",
+  "score": 36,
+  "raw": 36,
+  "tier": "Critical gap",
+  "elig": "verify"
+ }
+]

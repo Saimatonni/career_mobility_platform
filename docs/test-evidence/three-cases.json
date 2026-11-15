@@ -1,0 +1,320 @@
+[
+ {
+  "id": "opp-001",
+  "title": "Programme Assistant – International NGO",
+  "m": {
+   "opportunityId": "opp-001",
+   "score": 100,
+   "rawScore": 100,
+   "capped": false,
+   "tier": "strong",
+   "tierLabel": "Strong match",
+   "confidence": 1,
+   "factors": [
+    {
+     "key": "skills",
+     "label": "Skills",
+     "weight": 30,
+     "score": 1,
+     "contribution": 30,
+     "status": "met",
+     "detail": "3 exact, 0 related, 0 missing of 3 required skills."
+    },
+    {
+     "key": "experience",
+     "label": "Experience",
+     "weight": 15,
+     "score": 1,
+     "contribution": 15,
+     "status": "met",
+     "detail": "2 yrs vs 1–3 yrs requested."
+    },
+    {
+     "key": "education",
+     "label": "Education",
+     "weight": 10,
+     "score": 1,
+     "contribution": 10,
+     "status": "met",
+     "detail": "Level met; field relevant."
+    },
+    {
+     "key": "location",
+     "label": "Location",
+     "weight": 15,
+     "score": 1,
+     "contribution": 15,
+     "status": "met",
+     "detail": "Germany is a preferred country."
+    },
+    {
+     "key": "language",
+     "label": "Language",
+     "weight": 15,
+     "score": 1,
+     "contribution": 15,
+     "status": "met",
+     "detail": "Weakest required language scores 100%."
+    },
+    {
+     "key": "interests",
+     "label": "Career interests",
+     "weight": 15,
+     "score": 1,
+     "contribution": 15,
+     "status": "met",
+     "detail": "Best overlap with your interest \"Programme support\"."
+    }
+   ],
+   "strengths": [
+    "You match 3 of 3 required skills: Reporting, Project coordination, Stakeholder communication.",
+    "You also have preferred skills: Research, Excel.",
+    "Your 2 years of experience fits the 1–3 years requested.",
+    "Your Bachelor's degree meets the Bachelor's degree requirement.",
+    "Your field (Business Administration) matches the preferred fields.",
+    "Located in Berlin, Germany, one of your preferred countries.",
+    "You meet the required English (Professional working proficiency).",
+    "Aligns with your interest in Programme support."
+   ],
+   "gaps": [],
+   "notAssessed": [],
+   "eligibility": {
+    "status": "verify",
+    "flags": [
+     {
+      "code": "WORK_AUTH_UNKNOWN",
+      "severity": "verify",
+      "message": "Work authorisation for Germany is required and your status is not specified. Requires verification; this is not a legal determination."
+     },
+     {
+      "code": "EMPLOYER_NOTE",
+      "severity": "info",
+      "message": "Employer note: Candidates must already hold the right to work in Germany."
+     }
+    ]
+   },
+   "summary": "Strong match (100/100). Strengths: You match 3 of 3 required skills: Reporting, Project coordination, Stakeholder communication. You also have preferred skills: Research, Excel. Eligibility needs verification before you apply."
+  }
+ },
+ {
+  "id": "opp-006",
+  "title": "Junior Data Analyst – Fintech",
+  "m": {
+   "opportunityId": "opp-006",
+   "score": 60,
+   "rawScore": 60,
+   "capped": false,
+   "tier": "partial",
+   "tierLabel": "Partial match",
+   "confidence": 1,
+   "factors": [
+    {
+     "key": "skills",
+     "label": "Skills",
+     "weight": 30,
+     "score": 0.21,
+     "contribution": 6.4,
+     "status": "gap",
+     "detail": "1 exact, 0 related, 3 missing of 4 required skills."
+    },
+    {
+     "key": "experience",
+     "label": "Experience",
+     "weight": 15,
+     "score": 1,
+     "contribution": 15,
+     "status": "met",
+     "detail": "2 yrs vs 1–2 yrs requested."
+    },
+    {
+     "key": "education",
+     "label": "Education",
+     "weight": 10,
+     "score": 0.82,
+     "contribution": 8.2,
+     "status": "met",
+     "detail": "Level met; field not clearly relevant."
+    },
+    {
+     "key": "location",
+     "label": "Location",
+     "weight": 15,
+     "score": 1,
+     "contribution": 15,
+     "status": "met",
+     "detail": "Germany is a preferred country."
+    },
+    {
+     "key": "language",
+     "label": "Language",
+     "weight": 15,
+     "score": 1,
+     "contribution": 15,
+     "status": "met",
+     "detail": "Weakest required language scores 100%."
+    },
+    {
+     "key": "interests",
+     "label": "Career interests",
+     "weight": 15,
+     "score": 0,
+     "contribution": 0,
+     "status": "gap",
+     "detail": "Little overlap with your stated interests."
+    }
+   ],
+   "strengths": [
+    "You match 1 of 4 required skills: Excel.",
+    "Your 2 years of experience fits the 1–2 years requested.",
+    "Your Bachelor's degree meets the Bachelor's degree requirement.",
+    "Located in Berlin, Germany, one of your preferred countries.",
+    "You meet the required English (Professional working proficiency)."
+   ],
+   "gaps": [
+    {
+     "text": "Missing required skills: SQL, Python, Data analysis.",
+     "critical": false,
+     "area": "Skills"
+    },
+    {
+     "text": "Preferred fields are Computer Science, Statistics, Mathematics, Economics; your field (Business Administration) may not be directly relevant.",
+     "critical": false,
+     "area": "Education"
+    },
+    {
+     "text": "Role focus (data analysis, fintech, analytics) does not clearly align with your stated interests.",
+     "critical": false,
+     "area": "Career interests"
+    }
+   ],
+   "notAssessed": [],
+   "eligibility": {
+    "status": "verify",
+    "flags": [
+     {
+      "code": "WORK_AUTH_UNKNOWN",
+      "severity": "verify",
+      "message": "Work authorisation for Germany is required and your status is not specified. Requires verification; this is not a legal determination."
+     },
+     {
+      "code": "EMPLOYER_NOTE",
+      "severity": "info",
+      "message": "Employer note: EU Blue Card sponsorship possible for qualifying candidates."
+     }
+    ]
+   },
+   "summary": "Partial match (60/100). Strengths: You match 1 of 4 required skills: Excel. Your 2 years of experience fits the 1–2 years requested. Main gap: Missing required skills: SQL, Python, Data analysis. Eligibility needs verification before you apply."
+  }
+ },
+ {
+  "id": "opp-003",
+  "title": "German-speaking Client Associate",
+  "m": {
+   "opportunityId": "opp-003",
+   "score": 45,
+   "rawScore": 55,
+   "capped": true,
+   "tier": "critical_gap",
+   "tierLabel": "Critical gap",
+   "confidence": 1,
+   "factors": [
+    {
+     "key": "skills",
+     "label": "Skills",
+     "weight": 30,
+     "score": 0.29,
+     "contribution": 8.7,
+     "status": "gap",
+     "detail": "0 exact, 1 related, 2 missing of 3 required skills."
+    },
+    {
+     "key": "experience",
+     "label": "Experience",
+     "weight": 15,
+     "score": 1,
+     "contribution": 15,
+     "status": "met",
+     "detail": "2 yrs vs 1–4 yrs requested."
+    },
+    {
+     "key": "education",
+     "label": "Education",
+     "weight": 10,
+     "score": 1,
+     "contribution": 10,
+     "status": "met",
+     "detail": "Level met; field relevant."
+    },
+    {
+     "key": "location",
+     "label": "Location",
+     "weight": 15,
+     "score": 1,
+     "contribution": 15,
+     "status": "met",
+     "detail": "Germany is a preferred country."
+    },
+    {
+     "key": "language",
+     "label": "Language",
+     "weight": 15,
+     "score": 0,
+     "contribution": 0,
+     "status": "gap",
+     "detail": "Weakest required language scores 0%."
+    },
+    {
+     "key": "interests",
+     "label": "Career interests",
+     "weight": 15,
+     "score": 0.4,
+     "contribution": 6,
+     "status": "gap",
+     "detail": "Little overlap with your stated interests."
+    }
+   ],
+   "strengths": [
+    "Partly related skills: Communication (via \"Stakeholder communication\").",
+    "You also have preferred skills: Reporting.",
+    "Your 2 years of experience fits the 1–4 years requested.",
+    "Your Bachelor's degree meets the Diploma / associate requirement.",
+    "Located in Munich, Germany, one of your preferred countries.",
+    "You meet the required English (Professional working proficiency)."
+   ],
+   "gaps": [
+    {
+     "text": "Missing required skills: Customer support, CRM.",
+     "critical": false,
+     "area": "Skills"
+    },
+    {
+     "text": "Required language not listed on your profile: German (Professional working proficiency).",
+     "critical": true,
+     "area": "Language"
+    },
+    {
+     "text": "Role focus (customer support, client services) does not clearly align with your stated interests.",
+     "critical": false,
+     "area": "Career interests"
+    }
+   ],
+   "notAssessed": [],
+   "eligibility": {
+    "status": "verify",
+    "flags": [
+     {
+      "code": "WORK_AUTH_UNKNOWN",
+      "severity": "verify",
+      "message": "Work authorisation for Germany is required and your status is not specified. Requires verification; this is not a legal determination."
+     },
+     {
+      "code": "EMPLOYER_NOTE",
+      "severity": "info",
+      "message": "Employer note: Professional German is required for daily client calls."
+     }
+    ]
+   },
+   "summary": "Critical gap (45/100). Strengths: Partly related skills: Communication (via \"Stakeholder communication\"). You also have preferred skills: Reporting. Critical: Required language not listed on your profile: German (Professional working proficiency). The score was capped from 55 to 45 because of this."
+  }
+ }
+]
